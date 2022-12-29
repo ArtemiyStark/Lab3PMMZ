@@ -1,0 +1,29 @@
+D:\mpl\App5\App5\bin\Debug\netstandard2.0\App5.deps.json
+D:\mpl\App5\App5\bin\Debug\netstandard2.0\App5.dll
+D:\mpl\App5\App5\bin\Debug\netstandard2.0\ref\App5.dll
+D:\mpl\App5\App5\bin\Debug\netstandard2.0\App5.pdb
+D:\mpl\App5\App5\obj\Debug\netstandard2.0\App5.csproj.AssemblyReference.cache
+D:\mpl\App5\App5\obj\Debug\netstandard2.0\App5.GeneratedMSBuildEditorConfig.editorconfig
+D:\mpl\App5\App5\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\mpl\App5\App5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\mpl\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfoInputs.cache
+D:\mpl\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfo.cs
+D:\mpl\App5\App5\obj\Debug\netstandard2.0\App5.csproj.CoreCompileInputs.cache
+D:\mpl\App5\App5\obj\Debug\netstandard2.0\XamlC.stamp
+D:\mpl\App5\App5\obj\Debug\netstandard2.0\App5.dll
+D:\mpl\App5\App5\obj\Debug\netstandard2.0\ref\App5.dll
+D:\mpl\App5\App5\obj\Debug\netstandard2.0\App5.pdb
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App5\App5\bin\Debug\netstandard2.0\App5.deps.json
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App5\App5\bin\Debug\netstandard2.0\App5.dll
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App5\App5\bin\Debug\netstandard2.0\ref\App5.dll
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App5\App5\bin\Debug\netstandard2.0\App5.pdb
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App5\App5\obj\Debug\netstandard2.0\App5.csprojAssemblyReference.cache
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App5\App5\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App5\App5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfoInputs.cache
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfo.cs
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App5\App5\obj\Debug\netstandard2.0\App5.csproj.CoreCompileInputs.cache
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App5\App5\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App5\App5\obj\Debug\netstandard2.0\App5.dll
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App5\App5\obj\Debug\netstandard2.0\ref\App5.dll
+C:\Users\Артемій\Documents\Комп'ютерні Науки (122)\3 курс (122)\(3) Лабораторні і т.д\Програмування мережних та мобільних застосувань\App5\App5\obj\Debug\netstandard2.0\App5.pdb
